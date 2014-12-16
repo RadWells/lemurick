@@ -11,6 +11,8 @@ module Lemurick
         'Gameplay',
         'Sweet Christmas',
         'Denise? Denise??',
+        'John is done already?',
+        'The PRO-JECT?!'
     
       ]
     end
